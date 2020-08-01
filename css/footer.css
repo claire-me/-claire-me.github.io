@@ -1,0 +1,94 @@
+    /* styles for footer */
+      footer {
+        float: left;
+        text-align: center;
+        /* background-color:#fafafa; */
+        width:99%;
+      }
+
+      footer .love{
+        padding-top: 50px;
+        background-color:#fafafa;
+        padding-bottom: 150px;
+      }
+
+    footer .link1 .footer-child{
+        float: left;
+        padding-bottom: 20px;
+        margin-bottom: 30px;
+        display: flex;
+        padding-top: 20px;
+        padding-left: 150px;
+      }
+
+      hr{
+        width: 49pc;
+        border: 1px solid #000000;
+        padding-right: 50px;
+      }
+
+      footer .link1 .footer-child a{
+        display: flex;
+        padding-left: 80px;
+        text-decoration: none;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        color: black;
+      }
+  
+      footer .footer-child .footer-pic{
+       padding-left: 130px;
+       padding-right: 70px;
+      }
+  
+      footer .link2{
+        float: left;
+        list-style: none;
+        margin-left: 30%;
+        padding-top: 10px;
+      }
+
+      footer .link2 .facebook{
+        float: left;
+        margin-left: 20px;
+        padding: 5px;
+      }
+      
+      footer .link2 .twitter{
+        float: left;
+        margin-left: 20px;
+        padding: 5px;
+      }
+      
+      footer .link2 .instagram{
+        float: left;
+        margin-left: 20px;
+        padding: 5px;
+      }
+      
+      footer .link2 .youtube{
+        float: left;
+        margin-left: 20px;
+        padding: 5px;
+      }
+
+      footer .link2 .pintrest{
+        float: left;
+        margin-left: 20px;
+        padding: 5px;
+        text-align: center;
+      }
+
+       .footer-child2{
+        float: left;
+        padding-left: 33pc;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        padding-bottom: 20px;
+      }
+
+      .footer-child2 .end{
+        padding-left: 10px;
+        text-decoration: none;
+        color: #000000;
+      }

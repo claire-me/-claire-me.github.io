@@ -1,0 +1,70 @@
+    /* styles for section5 */
+    .sec5 .content5{
+        float: left;
+        display: flex;
+        margin-left: 50px;
+        margin-bottom: 90px;
+        width: 70%;
+        margin-top: 15px;
+      }
+  
+      .sec5 .content5 .sec5-first-child{
+        width: 500px;
+        text-align: left;
+        margin-left: 20px;
+      }
+  
+      .sec5 .content5 #best{
+        box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+        margin-right: 50px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+      }
+  
+      .sec5 .content5 #best h4{
+        font-size: 20px;
+        width: 350px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+  
+      .sec5 .content5 #best p{
+        font-size: 20px;
+        font-weight: normal;
+        font-family: Geneva;
+        width: 455px;
+        padding-bottom: 25px;
+      }
+  
+      .sec5 .content5 #best a{
+        text-decoration: none;
+        margin-bottom: 90px;
+        color: #000000;
+      }
+  
+      
+      .sec5 .content5 #good{
+        margin-right: 50px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+      }
+  
+      .sec5 .content5 #good h4{
+        font-size: 20px;
+        width: 400px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+  
+      .sec5 .content5 #good p{
+        font-size: 20px;
+        font-weight: normal;
+        font-family: Geneva;
+        width: 455px;
+        padding-bottom: 30px;
+      }
+  
+      .sec5 .content5 #good a{
+        text-decoration: none;
+        margin-bottom: 90px;
+        color: #000000;
+      }
+  
